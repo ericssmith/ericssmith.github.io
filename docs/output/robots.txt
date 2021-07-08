@@ -1,0 +1,4 @@
+Sitemap: https://ericssmith.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: ericssmith.github.io
