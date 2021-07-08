@@ -65,10 +65,7 @@
         <!--Body content-->
         <div class="row">
             
-            
-    
-
-<nav class="breadcrumbs"><ul class="breadcrumb">
+    <nav class="breadcrumbs"><ul class="breadcrumb">
 <li><a href="../">galleries</a></li>
                 <li>Nikola Tesla</li>
 </ul></nav><h1>Nikola Tesla</h1>
@@ -103,7 +100,6 @@
 </li>
 </ul>
 </noscript>
-
         </div>
         <!--End of body content-->
 
@@ -114,13 +110,12 @@
 </div>
 </div>
 
-
             <script src="../../assets/js/all-nocdn.js"></script><!-- fancy dates --><script>
     moment.locale("en");
     fancydates(0, "YYYY-MM-DD HH:mm");
     </script><!-- end fancy dates --><script src="../../assets/js/justified-layout.min.js"></script><script src="../../assets/js/gallery.min.js"></script><script>
-var jsonContent = [{"height": 180, "size": {"h": 180, "w": 128}, "title": "Tesla4 lg", "url": "tesla4_lg.jpg", "url_thumb": "tesla4_lg.thumbnail.jpg", "width": 128}, {"height": 180, "size": {"h": 180, "w": 128}, "title": "Tesla conducts lg", "url": "tesla_conducts_lg.jpg", "url_thumb": "tesla_conducts_lg.thumbnail.jpg", "width": 128}, {"height": 131, "size": {"h": 131, "w": 180}, "title": "Tesla lightning2 lg", "url": "tesla_lightning2_lg.jpg", "url_thumb": "tesla_lightning2_lg.thumbnail.jpg", "width": 180}, {"height": 130, "size": {"h": 130, "w": 180}, "title": "Tesla lightning1 lg", "url": "tesla_lightning1_lg.jpg", "url_thumb": "tesla_lightning1_lg.thumbnail.jpg", "width": 180}, {"height": 125, "size": {"h": 125, "w": 180}, "title": "Tesla tower1 lg", "url": "tesla_tower1_lg.jpg", "url_thumb": "tesla_tower1_lg.thumbnail.jpg", "width": 180}];
-var thumbnailSize = 180;
+var jsonContent = ${photo_array_json};
+var thumbnailSize = ${thumbnail_size};
 renderGallery(jsonContent, thumbnailSize);
 window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnailSize)});
 </script><script>
