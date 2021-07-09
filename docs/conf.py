@@ -20,7 +20,7 @@ BLOG_AUTHOR = "Eric Smith"  # (translatable)
 BLOG_TITLE = "Machine Learning in the Cloud"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://ericssmith.github.io/"
+SITE_URL = "https://machine-learning-in-the-cloud.net/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://ericssmith.github.io/"
