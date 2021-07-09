@@ -1,0 +1,4 @@
+Sitemap: https://machine-learning-in-the-cloud.net/sitemapindex.xml
+
+User-Agent: *
+Host: machine-learning-in-the-cloud.net
