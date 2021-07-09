@@ -6,147 +6,147 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://ericssmith.github.io/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/</loc>
   <lastmod>2021-07-08T14:40:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/2012/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/2012/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/2021/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/2021/</loc>
   <lastmod>2021-07-08T14:00:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/archive.html</loc>
-  <lastmod>2021-07-08T15:28:00Z</lastmod>
+  <loc>https://machine-learning-in-the-cloud.net/archive.html</loc>
+  <lastmod>2021-07-09T18:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/authors/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/authors/</loc>
   <lastmod>2021-07-08T14:00:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/authors/eric-smith/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/authors/eric-smith/</loc>
   <lastmod>2021-07-08T14:00:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/authors/roberto-alsina/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/authors/roberto-alsina/</loc>
   <lastmod>2021-07-08T14:00:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/categories/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/categories/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/categories/blog/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/categories/blog/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/categories/cat_nikola/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/categories/cat_nikola/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/categories/demo/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/categories/demo/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/categories/nikola/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/categories/nikola/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/categories/python/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/categories/python/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/galleries/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/galleries/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/galleries/demo/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/galleries/demo/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/listings/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/listings/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/listings/__pycache__/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/listings/__pycache__/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/listings/hello.py.html</loc>
-  <lastmod>2021-07-08T15:28:00Z</lastmod>
+  <loc>https://machine-learning-in-the-cloud.net/listings/hello.py.html</loc>
+  <lastmod>2021-07-09T18:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/pages/about-nikola/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/pages/about-nikola/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/pages/about/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/pages/about/</loc>
   <lastmod>2021-07-08T14:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/pages/bootstrap-demo/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/pages/bootstrap-demo/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/pages/charts/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/pages/charts/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/pages/creating-a-theme/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/pages/creating-a-theme/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/pages/dr-nikolas-vendetta/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/pages/dr-nikolas-vendetta/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/pages/extending/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/pages/extending/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/pages/handbook/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/pages/handbook/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/pages/internals/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/pages/internals/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/pages/listings-demo/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/pages/listings-demo/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/pages/path-handlers/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/pages/path-handlers/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/pages/quickref/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/pages/quickref/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/pages/quickstart/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/pages/quickstart/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/pages/social_buttons/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/pages/social_buttons/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/pages/theming/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/pages/theming/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/posts/jupyter-post/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/posts/jupyter-post/</loc>
   <lastmod>2021-07-08T14:20:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/posts/my-first-post/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/posts/my-first-post/</loc>
   <lastmod>2021-07-08T14:00:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ericssmith.github.io/posts/welcome-to-nikola/</loc>
+  <loc>https://machine-learning-in-the-cloud.net/posts/welcome-to-nikola/</loc>
   <lastmod>2021-07-08T13:52:00Z</lastmod>
  </url>
 </urlset>
